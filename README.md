@@ -13,7 +13,8 @@
 
 <h2>Screen Record of Tests Running </h2>
 <p>The screen recording showcases the execution of test cases across multiple browsers, including Chrome, Firefox. The recording demonstrates that all test cases have successfully passed, ensuring consistent functionality and reliability of the Swag Labs eCommerce platform across different environments.</p>
-Uploading Screen Recording 2024-09-05 at 3.23.52 PM (1) (1) (1).mov…
+[Uploading Screen Recording 2024-09-05 at 3.23.52 PM (1) (1) (1).mov…](https://github.com/user-attachments/assets/6390d6df-56fc-4289-934a-f2df7e4227e8
+)
 <hr>
 
 <h2>Table of Contents</h2>
