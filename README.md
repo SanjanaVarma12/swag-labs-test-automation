@@ -16,6 +16,12 @@
 
 https://github.com/user-attachments/assets/6390d6df-56fc-4289-934a-f2df7e4227e8
 
+<h2>Extent Report of Tests Running</h2>
+<p>This report provides a detailed summary of all the test cases executed, including pass/fail status, test duration, and additional logs. The ExtentReport offers a visually rich interface to review test execution results, enhancing transparency and making debugging more efficient. You can view the latest test summary by accessing the report.</p>
+
+![Extent Report](https://github.com/user-attachments/assets/ace6f597-1359-40c2-a53c-3994c6d0c007)
+![Extent Report summary](https://github.com/user-attachments/assets/942604a7-606f-4d1d-a0aa-dbf62c5f1a6c)
+
 <hr>
 
 <h2>Table of Contents</h2>
