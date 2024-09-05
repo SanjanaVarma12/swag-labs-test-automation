@@ -11,6 +11,9 @@
 
 <p>This project is a <strong>Test Automation Framework</strong> designed to automate the testing of the <strong>Swag Labs eCommerce website</strong>. The framework is built using <strong>Selenium WebDriver</strong> with <strong>Java</strong>, following the <strong>Page Object Model (POM)</strong> design pattern. <strong>TestNG</strong> is used as the testing framework, and <strong>ExtentReports</strong> is integrated for generating detailed test reports. The framework is managed through <strong>GitLab</strong> for version control, and <strong>Maven</strong> is used for dependency management and build automation.</p>
 
+<h2>Screen Record of Tests Running </h2>
+<p>The screen recording showcases the execution of test cases across multiple browsers, including Chrome, Firefox. The recording demonstrates that all test cases have successfully passed, ensuring consistent functionality and reliability of the Swag Labs eCommerce platform across different environments.</p>
+Uploading Screen Recording 2024-09-05 at 3.23.52 PM (1) (1) (1).mov…
 <hr>
 
 <h2>Table of Contents</h2>
@@ -24,7 +27,6 @@
     <li><a href="#gitlab-integration">GitLab Integration</a></li>
     <li><a href="#adding-new-tests">Adding New Tests</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
 </ol>
 
 <hr>
@@ -175,8 +177,6 @@ src/
 
 <hr>
 
-<h2 id="license">License</h2>
-<p>This project is licensed under the MIT License. See the <code>LICENSE</code> file for more details.</p>
 
 </body>
 </html>
